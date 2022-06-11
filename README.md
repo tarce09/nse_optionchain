@@ -16,11 +16,22 @@ Install project with cmd line
   pip install pandas
   pip install requests
 ```
-go to code-
+
+## Running
+Go to code-
 
 In header variable change the key values according to your browser data by
 going into https://www.nseindia.com/option-chain , right click,inspect element->network->refresh the screen->click on option-chain
 and copy the values of the keys and paste in the code
+
+go to the place where u have saved the file in the terminal and write
+``bash
+  python new_code.py
+``
+
+note:-new_code.py is the name of my file if u have a different file name change it accordingly.
+
+
 
 ## Code done for
 
