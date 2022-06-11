@@ -25,7 +25,7 @@ going into https://www.nseindia.com/option-chain , right click,inspect element->
 and copy the values of the keys and paste in the code
 
 go to the place where u have saved the file in the terminal and write
-``bash
+``
   python new_code.py
 ``
 
